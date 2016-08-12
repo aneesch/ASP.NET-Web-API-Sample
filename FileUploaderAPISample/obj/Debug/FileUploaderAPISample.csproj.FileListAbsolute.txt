@@ -1,0 +1,13 @@
+E:\Tiek\ASP.NET\FileUploaderAPISample\FileUploaderAPISample\bin\FileUploaderAPISample.dll.config
+E:\Tiek\ASP.NET\FileUploaderAPISample\FileUploaderAPISample\bin\FileUploaderAPISample.dll
+E:\Tiek\ASP.NET\FileUploaderAPISample\FileUploaderAPISample\bin\FileUploaderAPISample.pdb
+E:\Tiek\ASP.NET\FileUploaderAPISample\FileUploaderAPISample\bin\Newtonsoft.Json.dll
+E:\Tiek\ASP.NET\FileUploaderAPISample\FileUploaderAPISample\bin\System.Net.Http.Formatting.dll
+E:\Tiek\ASP.NET\FileUploaderAPISample\FileUploaderAPISample\bin\System.Web.Http.dll
+E:\Tiek\ASP.NET\FileUploaderAPISample\FileUploaderAPISample\bin\System.Web.Http.WebHost.dll
+E:\Tiek\ASP.NET\FileUploaderAPISample\FileUploaderAPISample\bin\Newtonsoft.Json.xml
+E:\Tiek\ASP.NET\FileUploaderAPISample\FileUploaderAPISample\bin\System.Net.Http.Formatting.xml
+E:\Tiek\ASP.NET\FileUploaderAPISample\FileUploaderAPISample\bin\System.Web.Http.xml
+E:\Tiek\ASP.NET\FileUploaderAPISample\FileUploaderAPISample\bin\System.Web.Http.WebHost.xml
+E:\Tiek\ASP.NET\FileUploaderAPISample\FileUploaderAPISample\obj\Debug\FileUploaderAPISample.dll
+E:\Tiek\ASP.NET\FileUploaderAPISample\FileUploaderAPISample\obj\Debug\FileUploaderAPISample.pdb
